@@ -1,9 +1,7 @@
 {
   "model": "ZX Spectrum 48K",
   "edition": "PAL",
-  "keymappings": {
-    "End": ["CShift", "N1"]
-  },
-  "defaultTape": "Pac-Man.tzx",
+
+  "defaultTape": "welcome.tzx",
   "fastLoad": false
 }

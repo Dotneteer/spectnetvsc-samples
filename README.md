@@ -3,7 +3,7 @@ This project collects samples that you can use with the [SpectNetVsc](https://gi
 
 ## Sample Projects
 
-### ZX Spectrum 48 &mdash; [Getting Started](https://github.com/Dotneteer/spectnetvsc-samples/tree/master/ZxSpectrum48GettingStarted)
+### ZX Spectrum 48 &mdash; [Getting Started](https://github.com/Dotneteer/spectnetvsc-samples/tree/master/ZxSpectrum48GettingStarted): 
 
 A minimum sample that constains a project definition with two tape files.
 
