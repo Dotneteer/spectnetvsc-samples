@@ -1,0 +1,7 @@
+{
+  "model": "ZX Spectrum 128K",
+  "edition": "PAL",
+
+  "defaultTape": "welcome.tzx",
+  "fastLoad": false
+}

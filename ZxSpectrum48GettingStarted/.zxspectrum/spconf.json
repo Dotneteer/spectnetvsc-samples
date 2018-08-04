@@ -2,6 +2,6 @@
   "model": "ZX Spectrum 48K",
   "edition": "PAL",
 
-  "defaultTape": "welcome.tzx",
+  "defaultTape": "Pac-Man.tzx",
   "fastLoad": false
 }
