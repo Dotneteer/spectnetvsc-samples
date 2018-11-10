@@ -3,5 +3,6 @@
   "edition": "PAL",
 
   "defaultTape": "Pac-Man.tzx",
-  "fastLoad": false
+  "fastLoad": true
 }
+

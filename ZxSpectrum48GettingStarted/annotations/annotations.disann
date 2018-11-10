@@ -1,2 +1,1 @@
-{
-}
+{"memorySections":[{"startAddress":16384,"endAddress":22527,"sectionType":0},{"startAddress":22528,"endAddress":23295,"sectionType":0},{"startAddress":23296,"endAddress":65535,"sectionType":2}],"disassemblyFlags":0,"labels":{"0":"Start"},"comments":{"0":"Start comment"},"prefixComments":{"0":"Start"},"literals":{},"literalReplacements":{}}
